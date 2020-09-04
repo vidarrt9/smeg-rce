@@ -1,0 +1,15 @@
+[submodule "bousqi-smeg+"]
+	path = bousqi-smeg+
+	url = git@github.com:vidarrt9/SMEG_PLUS.git
+[submodule "bousqi-smeg+key"]
+	path = bousqi-smeg+key
+	url = git@github.com:vidarrt9/smeg-plus_key.git
+[submodule "mwyann-psakey"]
+	path = mwyann-psakey
+	url = git@github.com:vidarrt9/psakey.git
+[submodule "psa-can-reverse-engineering"]
+	path = psa-can-reverse-engineering
+	url = git@github.com:vidarrt9/autowp.github.io.git
+[submodule "libpsa"]
+	path = libpsa
+	url = https://git.prototux.net/cosmos/car/libpsa.git
