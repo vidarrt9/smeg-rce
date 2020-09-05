@@ -13,3 +13,6 @@
 [submodule "libpsa"]
 	path = libpsa
 	url = https://git.prototux.net/cosmos/car/libpsa.git
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/vidarrt9/smeg-rce.wiki.git

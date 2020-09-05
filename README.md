@@ -1,5 +1,7 @@
 # Reverse engineering the SMEG+I
 
+> Hey there, perhaps you'd also like to [take a peek into our Wiki](https://github.com/vidarrt9/smeg-rce/wiki)?
+
 The SMEG+I is an enhanced version of the original SMEG, both apparently manufactured by Magneti Marelli for PSA.
 
 This repository is mainly about the SMEG+I, not about the original SMEG or the successor which is called SMEG+Iv2. You can generally tell them apart by looking at the firmware version number:
@@ -40,10 +42,10 @@ Also look below for some prior art.
 
 ## Upstream repositories/projects / related work
 
-* `https://github.com/bousqi/SMEG_PLUS.git`
-* `https://github.com/bousqi/smeg-plus_key.git`
-* `https://github.com/Mwyann/psakey.git`
-    * ... and the fork (currently not diverged) `https://github.com/bousqi/psakey.git`
-* `https://github.com/autowp/autowp.github.io.git` (abandoned upstream?)
-    * `https://github.com/prototux/PSA-CANbus-reverse-engineering.git` (this is where it all moved)
-* `https://git.prototux.net/cosmos/car/libpsa.git`
+* [`https://github.com/bousqi/SMEG_PLUS.git`](https://github.com/bousqi/SMEG_PLUS)
+* [`https://github.com/bousqi/smeg-plus_key.git`](https://github.com/bousqi/smeg-plus_key)
+* [`https://github.com/Mwyann/psakey.git`](https://github.com/Mwyann/psakey)
+    * ... and the fork (currently not diverged) [`https://github.com/bousqi/psakey.git`](https://github.com/bousqi/psakey)
+* [`https://github.com/autowp/autowp.github.io.git`](https://github.com/autowp/autowp.github.io) (abandoned upstream?)
+    * [`https://github.com/prototux/PSA-CANbus-reverse-engineering.git`](https://github.com/prototux/PSA-CANbus-reverse-engineering) (this is where it all moved)
+* [`https://git.prototux.net/cosmos/car/libpsa.git`](https://git.prototux.net/cosmos/car/libpsa)
