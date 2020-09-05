@@ -36,6 +36,8 @@ For some of these you will want to use machine translation or -- if you can affo
 * In conjunction with [psakey](https://github.com/Mwyann/psakey.git) and derived work [this](https://blog.soutade.fr/post/2016/07/create-your-own-usb-gadget-with-gadgetfs.html) could prove useful
 * While on the hardware side not directly applicable, [information from here](https://hackaday.io/project/4177-lvds-laptop-display-interfacing) could prove useful when trying to get the display signal (LVDS) to work without the actual hardware from PSA
 
+Also look below for some prior art.
+
 ## Upstream repositories/projects / related work
 
 * `https://github.com/bousqi/SMEG_PLUS.git`
