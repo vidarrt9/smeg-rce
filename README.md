@@ -26,21 +26,21 @@ For some of these you will want to use machine translation or -- if you can affo
     * The link named [MANUAL](https://fccid.io/ANATEL/00719-14-05386/MANUAL/DADF0ABD-43AA-405C-8165-C6B5BEC8D0EC) leads to the document whose PDF we already linked above. It is originally named `SMEG+I_HW Technical Datasheet_V1.pdf` and was created in February 2014 by an author with Italian name (Magneti Marelli is an Italian company), likely using Windows (as Ghostscript was used in the process).  
       It seems we're lucky that the Brazilian authorities require these details, as they help a little.
 * [ANATEL 02183-15-05386](https://fccid.io/ANATEL/02183-15-05386) is a link leading to an overview page which contains links to documents pertaining to SMEG+Iv2. Please note that these documents are by far not as helpful to this effort as those from the SMEG+I!
-* :fr: [French forum post explaining how to replace a SMEG+ by a NAC](https://www.forum-peugeot.com/Forum/threads/tuto-remplacement-smeg-par-un-nac-wave2-sur-308-t9-bta-2-0.9539/)
-* :de: [German forum post about updating all SMEG generations](https://www.peugeottalk.de/index.php?thread/2367-smeg-software-update-faq-s/) (from user/owner perspective)
+* :fr: [Forum post explaining how to replace a SMEG+ by a NAC](https://www.forum-peugeot.com/Forum/threads/tuto-remplacement-smeg-par-un-nac-wave2-sur-308-t9-bta-2-0.9539/)
+* :de: [Forum post about updating all SMEG generations](https://www.peugeottalk.de/index.php?thread/2367-smeg-software-update-faq-s/) (from user/owner perspective)
 * [Home of the famous Mira scripts](http://mira308sw.altervista.org/en/)  
   The homepage of a person going by the moniker mira308sw has apparently written some scripts which can be executed by software running on the SMEG+ as well as software to inspect data from the SMEG+ and manipulate it. As far as I can tell most of the stuff comes without source, unfortunately.
-* :ru: [Russian website detailing some "adventures" with SMEG+](https://www.drive2.com/l/453828648118518250/) ... the title is roughly "programming the SMEG+Iv2 without DiagBox"
+* :ru: [Website detailing some "adventures" with SMEG+](https://www.drive2.com/l/453828648118518250/) ... the title is roughly "programming the SMEG+Iv2 without DiagBox"
 * [RT4 Wiki](http://rt4.wikidot.com) is a Wiki collecting information about the RT3, a predecessor of the SMEG and SMEG+, sharing a number of details  
   The whole Wiki is chock-full with spam, but we have an archived and cleaned up version that we will probably attempt to make available at some point
-* :fr: [French forum post under the title "Rooting the SMEG+?"](https://www.forum-peugeot.com/Forum/threads/rooter-le-smeg.9541/)
+* :fr: [Forum post under the title "Rooting the SMEG+?"](https://www.forum-peugeot.com/Forum/threads/rooter-le-smeg.9541/)
 * [qresExtract](https://github.com/tatokis/qresExtract) is a software allowing to extract `.rcc` files, those are Qt compiled resource files
 * In conjunction with [psakey](https://github.com/Mwyann/psakey.git) and derived work [this](https://blog.soutade.fr/post/2016/07/create-your-own-usb-gadget-with-gadgetfs.html) could prove useful
 * While on the hardware side not directly applicable, [information from here](https://hackaday.io/project/4177-lvds-laptop-display-interfacing) could prove useful when trying to get the display signal (LVDS) to work without the actual hardware from PSA
 
 Also look below for some prior art.
 
-## Upstream repositories/projects / related work
+## Upstream repositories/projects and related work
 
 * [`https://github.com/bousqi/SMEG_PLUS.git`](https://github.com/bousqi/SMEG_PLUS)
 * [`https://github.com/bousqi/smeg-plus_key.git`](https://github.com/bousqi/smeg-plus_key)
