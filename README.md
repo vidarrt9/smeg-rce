@@ -40,6 +40,11 @@ For some of these you will want to use machine translation or -- if you can affo
 
 Also look below for some prior art.
 
+## Additional reading
+
+* We found the book "The Car Hacker's Handbook" by Craig Smith (ISBN: 978-1-59327-703-1) quite useful to get an overview of what to expect, where to look and what tools to use to dig deeper.
+    * It appears the whole book is available as [a single big HTML file from opengarages.org](http://opengarages.org/handbook/ebook/).
+
 ## Upstream repositories/projects and related work
 
 * [`https://github.com/bousqi/SMEG_PLUS.git`](https://github.com/bousqi/SMEG_PLUS)
