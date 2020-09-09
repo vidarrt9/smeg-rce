@@ -16,3 +16,6 @@
 [submodule "wiki"]
 	path = wiki
 	url = https://github.com/vidarrt9/smeg-rce.wiki.git
+[submodule "analysis"]
+	path = analysis
+	url = git@github.com:vidarrt9/smeg-plus-analysis.git
