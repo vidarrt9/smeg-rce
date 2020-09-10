@@ -19,3 +19,6 @@
 [submodule "analysis"]
 	path = analysis
 	url = git@github.com:vidarrt9/smeg-plus-analysis.git
+[submodule "usb-intruderer"]
+	path = usb-intruderer
+	url = git@github.com:vidarrt9/usb-intruderer.git
