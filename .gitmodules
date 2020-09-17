@@ -22,3 +22,9 @@
 [submodule "usb-intruderer"]
 	path = usb-intruderer
 	url = git@github.com:vidarrt9/usb-intruderer.git
+[submodule "prototux-canbus"]
+	path = prototux-canbus
+	url = https://git.prototux.net/reverse-engineering/psa/canbus.git
+[submodule "vxhunter"]
+	path = vxhunter
+	url = git@github.com:vidarrt9/vxhunter.git

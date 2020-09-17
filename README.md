@@ -31,9 +31,12 @@ For some of these you will want to use machine translation or -- if you can affo
 * [Home of the famous Mira scripts](http://mira308sw.altervista.org/en/)  
   The homepage of a person going by the moniker mira308sw has apparently written some scripts which can be executed by software running on the SMEG+ as well as software to inspect data from the SMEG+ and manipulate it. As far as I can tell most of the stuff comes without source, unfortunately.
 * :ru: [Website detailing some "adventures" with SMEG+](https://www.drive2.com/l/453828648118518250/) ... the title is roughly "programming the SMEG+Iv2 without DiagBox"
+    * :ru: [Similar info](http://www.c4-sedan.ru/forum/viewtopic.php?f=61&t=3349)
 * [RT4 Wiki](http://rt4.wikidot.com) is a Wiki collecting information about the RT3, a predecessor of the SMEG and SMEG+, sharing a number of details  
   The whole Wiki is chock-full with spam, but we have an archived and cleaned up version that we will probably attempt to make available at some point
 * :fr: [Forum post under the title "Rooting the SMEG+?"](https://www.forum-peugeot.com/Forum/threads/rooter-le-smeg.9541/)
+* :nl: [SMEG cheat codes](https://www.jvd-projects.nl/peugeot-smeg-cheat-codes/)
+* :ru: [Russian blog post about radar/danger POIs](http://twistedminds.ru/2015/06/smeg-radar-dangerz/)
 * [qresExtract](https://github.com/tatokis/qresExtract) is a software allowing to extract `.rcc` files, those are Qt compiled resource files
 * In conjunction with [psakey](https://github.com/Mwyann/psakey.git) and derived work [this](https://blog.soutade.fr/post/2016/07/create-your-own-usb-gadget-with-gadgetfs.html) could prove useful
 * While on the hardware side not directly applicable, [information from here](https://hackaday.io/project/4177-lvds-laptop-display-interfacing) could prove useful when trying to get the display signal (LVDS) to work without the actual hardware from PSA
@@ -53,4 +56,5 @@ Also look below for some prior art.
     * ... and the fork (currently not diverged) [`https://github.com/bousqi/psakey.git`](https://github.com/bousqi/psakey)
 * [`https://github.com/autowp/autowp.github.io.git`](https://github.com/autowp/autowp.github.io) (abandoned upstream?)
     * [`https://github.com/prototux/PSA-CANbus-reverse-engineering.git`](https://github.com/prototux/PSA-CANbus-reverse-engineering) (this is where it all moved)
+        * ... and supposedly moved again [`https://git.prototux.net/reverse-engineering/psa/canbus.git`](https://git.prototux.net/reverse-engineering/psa/canbus) (not yet much content)
 * [`https://git.prototux.net/cosmos/car/libpsa.git`](https://git.prototux.net/cosmos/car/libpsa)
